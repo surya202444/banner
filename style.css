@@ -1,0 +1,8 @@
+.banner{
+    position: relative;
+    background-image: url(https://images.pexels.com/photos/355748/pexels-photo-355748.jpeg?cs=srgb&dl=pexels-pixabay-355748.jpg&fm=jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+}
